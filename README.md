@@ -28,4 +28,4 @@ Open ``` localhost:3000 ``` on your Chrome browser.
 - Enter the username  and enjoy!!
 
 ## Screenshots
-![screenshot 1]()
+![screenshot 1](https://github.com/swaager/Chat_io/blob/master/chat_io.png)
